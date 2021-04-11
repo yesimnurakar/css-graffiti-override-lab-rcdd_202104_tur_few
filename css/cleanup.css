@@ -20,3 +20,6 @@
 #wall .tag-7 {
   display: none;
 }
+div#wall #tag-3.slick {
+  display: none;
+}
